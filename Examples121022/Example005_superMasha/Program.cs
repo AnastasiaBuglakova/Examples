@@ -1,12 +1,12 @@
-﻿Console.Write ("Введите имя пользователя ");
-string username = Console.ReadLine ();
+﻿Console.Write("Введите имя пользователя:");
+string username = Console.ReadLine();
 
-if (username == маша);
+if(username.ToLower() == "маша")
 {
     Console.WriteLine("Машенька, дорогая, привет!");
 }
 else 
 {
-    Console.Write("Привет, ");
+    Console.WriteLine("Привет, ");
     Console.Write(username);
 }
