@@ -3,11 +3,11 @@
 //Console.WriteLine("+");
 Console.Clear();
 
-int xa = 16;
+int xa = 30;
 int ya = 1;
 int xb = 1;
 int yb = 25;
-int xc = 32;
+int xc = 60;
 int yc = 25;
 
 Console.SetCursorPosition(xa, ya);
@@ -23,7 +23,7 @@ int x = xa;
 int y = ya;
 int count = 0;
 
-while(count < 10000)
+while(count < 600)
 {
     int what = new Random().Next(0, 3); // 0, 1, 2
     if (what == 0)
