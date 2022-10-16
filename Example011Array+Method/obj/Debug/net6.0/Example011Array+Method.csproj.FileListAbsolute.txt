@@ -1,0 +1,15 @@
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.csproj.AssemblyReference.cache
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.AssemblyInfoInputs.cache
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.AssemblyInfo.cs
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.csproj.CoreCompileInputs.cache
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\bin\Debug\net6.0\Example011Array+Method.exe
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\bin\Debug\net6.0\Example011Array+Method.deps.json
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\bin\Debug\net6.0\Example011Array+Method.runtimeconfig.json
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\bin\Debug\net6.0\Example011Array+Method.dll
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\bin\Debug\net6.0\Example011Array+Method.pdb
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.dll
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\refint\Example011Array+Method.dll
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.pdb
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\Example011Array+Method.genruntimeconfig.cache
+D:\GEEK\Программирование\GIT\Lesson1AfterError\Example011Array+Method\obj\Debug\net6.0\ref\Example011Array+Method.dll
